@@ -1,0 +1,23 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'rdfmeta.blg'
+[34] biber-darwin:315> INFO - === Mon Aug 19, 2019, 07:40:20
+[54] Biber.pm:371> INFO - Reading 'rdfmeta.bcf'
+[140] Biber.pm:889> INFO - Found 12 citekeys in bib section 0
+[151] Biber.pm:4093> INFO - Processing section 0
+[162] Biber.pm:4254> INFO - Looking for bibtex format file 'kwarcpubs.bib' for section 0
+[318] bibtex.pm:1523> INFO - LaTeX decoding ...
+[1096] bibtex.pm:1340> INFO - Found BibTeX data source '../../../lib/bib/kwarcpubs.bib'
+[1188] Biber.pm:4254> INFO - Looking for bibtex format file 'extpubs.bib' for section 0
+[1430] bibtex.pm:1523> INFO - LaTeX decoding ...
+[5740] bibtex.pm:1340> INFO - Found BibTeX data source '../../../lib/bib/extpubs.bib'
+[6119] Biber.pm:4254> INFO - Looking for bibtex format file 'kwarccrossrefs.bib' for section 0
+[6261] bibtex.pm:1523> INFO - LaTeX decoding ...
+[6332] bibtex.pm:1340> INFO - Found BibTeX data source '../../../lib/bib/kwarccrossrefs.bib'
+[6933] bibtex.pm:1523> INFO - LaTeX decoding ...
+[7421] bibtex.pm:1340> INFO - Found BibTeX data source '../../../lib/bib/extcrossrefs.bib'
+[7515] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[7515] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[7516] Biber.pm:3921> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'en-US'
+[7516] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[7530] bbl.pm:636> INFO - Writing 'rdfmeta.bbl' with encoding 'UTF-8'
+[7534] bbl.pm:739> INFO - Output to rdfmeta.bbl

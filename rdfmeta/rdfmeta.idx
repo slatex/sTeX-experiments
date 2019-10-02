@@ -1,0 +1,11 @@
+\indexentry{showmeta=\verb!*+\showmeta+|usage|hyperpage}{2}
+\indexentry{sectioning=\verb!*+\sectioning+|usage|hyperpage}{3}
+\indexentry{keydef=\verb!*+\keydef+|usage|hyperpage}{3}
+\indexentry{rdfmeta@upgrade=\verb!*+\rdfmeta@upgrade+|usage|hyperpage}{5}
+\indexentry{rdfmeta@upgrade*=\verb!*+\rdfmeta@upgrade*+|usage|hyperpage}{5}
+\indexentry{optarg=\verb!*+\optarg+|usage|hyperpage}{5}
+\indexentry{optargstar=\verb!*+\optargstar+|usage|hyperpage}{5}
+\indexentry{keygroup=\verb!*+\keygroup+|usage|hyperpage}{5}
+\indexentry{idlabel=\verb!*+\idlabel+|usage|hyperpage}{5}
+\indexentry{rdfmeta@loaded=\verb!*+\rdfmeta@loaded+|usage|hyperpage}{6}
+\indexentry{rdfmeta@sectioning=\verb!*+\rdfmeta@sectioning+|usage|hyperpage}{6}

@@ -1,0 +1,27 @@
+This is makeindex, version 2.15 [TeX Live 2019] (kpathsea + Thai support).
+Scanning input file rdfmeta.idx...
+!! Input index error (file = rdfmeta.idx, line = 1):
+   -- Extra `|' at position 34 of first argument.
+!! Input index error (file = rdfmeta.idx, line = 2):
+   -- Extra `|' at position 38 of first argument.
+!! Input index error (file = rdfmeta.idx, line = 3):
+   -- Extra `|' at position 30 of first argument.
+!! Input index error (file = rdfmeta.idx, line = 4):
+   -- Extra `|' at position 48 of first argument.
+!! Input index error (file = rdfmeta.idx, line = 5):
+   -- Extra `|' at position 50 of first argument.
+!! Input index error (file = rdfmeta.idx, line = 6):
+   -- Extra `|' at position 30 of first argument.
+!! Input index error (file = rdfmeta.idx, line = 7):
+   -- Extra `|' at position 38 of first argument.
+!! Input index error (file = rdfmeta.idx, line = 8):
+   -- Extra `|' at position 34 of first argument.
+!! Input index error (file = rdfmeta.idx, line = 9):
+   -- Extra `|' at position 32 of first argument.
+!! Input index error (file = rdfmeta.idx, line = 10):
+   -- Extra `|' at position 46 of first argument.
+!! Input index error (file = rdfmeta.idx, line = 11):
+   -- Extra `|' at position 54 of first argument.
+done (0 entries accepted, 11 rejected).
+Nothing written in rdfmeta.ind.
+Transcript written in rdfmeta.ilg.

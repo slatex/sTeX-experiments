@@ -1,0 +1,11 @@
+
+ \begin{theglossary} 
+
+    \makeatletter\scan@allowedfalse
+
+  \item v0.1\efill 
+ \subitem General:\ new\pfill 1
+  \item v0.2\efill 
+ \subitem General:\ starred forms work now, more documentation\pfill 1
+
+ \end{theglossary}

@@ -1,0 +1,568 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{w3c:WD-rdfa-core-20100803}{report}{}
+      \name{author}{4}{}{%
+        {{hash=dc10b98d1ed54eb3a80022aa3b38e7ca}{%
+           family={Adida},
+           familyi={A\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=18520d1d085dcd054b4eabc20e015b37}{%
+           family={Birbeck},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d44a436f1df3777a12b67cde16bc234d}{%
+           family={McCarron},
+           familyi={M\bibinitperiod},
+           given={Shane},
+           giveni={S\bibinitperiod}}}%
+        {{hash=020f7644e052d8065c2eb8f9d5dbe47b}{%
+           family={Herman},
+           familyi={H\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {World Wide Web Consortium ({W3C})}%
+      }
+      \strng{namehash}{b045cc9cb846d39f94fcdca663d719fc}
+      \strng{fullhash}{6bc2d6306105b1c57019b7b618f856d1}
+      \strng{bibnamehash}{b045cc9cb846d39f94fcdca663d719fc}
+      \strng{authorbibnamehash}{b045cc9cb846d39f94fcdca663d719fc}
+      \strng{authornamehash}{b045cc9cb846d39f94fcdca663d719fc}
+      \strng{authorfullhash}{6bc2d6306105b1c57019b7b618f856d1}
+      \field{labelalpha}{Adi+10}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{8}
+      \field{subtitle}{Syntax and processing rules for embedding RDF through attributes}
+      \field{title}{{RDFa} Core 1.1}
+      \field{type}{{W3C} {Working Draft}}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://www.w3.org/TR/2010/WD-rdfa-core-20100803/
+      \endverb
+      \verb{url}
+      \verb http://www.w3.org/TR/2010/WD-rdfa-core-20100803/
+      \endverb
+    \endentry
+    \entry{KohAmb:smmssl:ctan}{report}{}
+      \name{author}{3}{}{%
+        {{hash=2e832785205772b3f6e09c93b51d6e74}{%
+           family={Kohlhase},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d72ad64c572c227e5fcd5a3c47e53753}{%
+           family={Ginev},
+           familyi={G\bibinitperiod},
+           given={Deyan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=05c93b9fbf514de4c6ec52be37ed7836}{%
+           family={Ambrus},
+           familyi={A\bibinitperiod},
+           given={Rares},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Comprehensive {\TeX} Archive Network (CTAN)}%
+      }
+      \strng{namehash}{9931860cf2aba7aab09916be7419d0be}
+      \strng{fullhash}{9931860cf2aba7aab09916be7419d0be}
+      \strng{bibnamehash}{9931860cf2aba7aab09916be7419d0be}
+      \strng{authorbibnamehash}{9931860cf2aba7aab09916be7419d0be}
+      \strng{authornamehash}{9931860cf2aba7aab09916be7419d0be}
+      \strng{authorfullhash}{9931860cf2aba7aab09916be7419d0be}
+      \field{labelalpha}{KGA16}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{\texttt{modules.sty}}: Semantic Macros and Module Scoping in {sTeX}}
+      \field{type}{techreport}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb http://www.ctan.org/get/macros/latex/contrib/stex/modules/modules.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ctan.org/get/macros/latex/contrib/stex/modules/modules.pdf
+      \endverb
+    \endentry
+    \entry{KohKohLan:ssffld10:biblatex}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=b1e1ff28960c053d699377e21954d95d}{%
+           family={Kohlhase},
+           familyi={K\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2e832785205772b3f6e09c93b51d6e74}{%
+           family={Kohlhase},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e68beeb96b34fa2bf948d704fcb7a3fb}{%
+           family={Lange},
+           familyi={L\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=d12c3ac18bc495ad34b0fd1da5c92548}{%
+           family={Paschke},
+           familyi={P\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4b57ac63cfca18f4615af0351c4c3971}{%
+           family={Henze},
+           familyi={H\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod}}}%
+        {{hash=84c520112ecacf9f5d34d0199ea621fe}{%
+           family={Pellegrini},
+           familyi={P\bibinitperiod},
+           given={Tassilo},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e58e1fca353042888e82dee23a2b7847}{%
+           family={Weigand},
+           familyi={W\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{792e14843a821b3e6eb80e5e6666184d}
+      \strng{fullhash}{792e14843a821b3e6eb80e5e6666184d}
+      \strng{bibnamehash}{792e14843a821b3e6eb80e5e6666184d}
+      \strng{authorbibnamehash}{792e14843a821b3e6eb80e5e6666184d}
+      \strng{authornamehash}{792e14843a821b3e6eb80e5e6666184d}
+      \strng{authorfullhash}{792e14843a821b3e6eb80e5e6666184d}
+      \strng{editorbibnamehash}{25a2324d802aea6b439e71c8c42a9fdd}
+      \strng{editornamehash}{25a2324d802aea6b439e71c8c42a9fdd}
+      \strng{editorfullhash}{766c8d09d64ec830e48a538e40947877}
+      \field{labelalpha}{KKL10}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{6\textsuperscript{th} International Conference on Semantic Systems ({I-Semantics}) and the 5\textsuperscript{th} International Conference on Pragmatic Web}
+      \field{eprintclass}{cs.SE}
+      \field{eprinttype}{arxiv}
+      \field{isbn}{978-1-4503-0014-8}
+      \field{title}{{sTeX} -- A System for Flexible Formalization of Linked Data}
+      \field{year}{2010}
+      \verb{doi}
+      \verb 10.1145/1839707.1839712
+      \endverb
+      \verb{eprint}
+      \verb 1006.4474v1
+      \endverb
+      \verb{urlraw}
+      \verb http://portal.acm.org/citation.cfm?id=1839707
+      \endverb
+      \verb{url}
+      \verb http://portal.acm.org/citation.cfm?id=1839707
+      \endverb
+      \keyw{conference}
+    \endentry
+    \entry{Kohlhase:OMDoc1.2}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2e832785205772b3f6e09c93b51d6e74}{%
+           family={Kohlhase},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Verlag}%
+      }
+      \strng{namehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{fullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{bibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorbibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authornamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorfullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \field{extraname}{1}
+      \field{labelalpha}{Koh06}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{\textsc{OMDoc} -- An open markup format for mathematical documents [Version 1.2]}
+      \field{month}{8}
+      \field{number}{4180}
+      \field{series}{LNAI}
+      \field{title}{\textsc{OMDoc} -- An open markup format for mathematical documents [Version 1.2]}
+      \field{year}{2006}
+      \verb{urlraw}
+      \verb http://omdoc.org/pubs/omdoc1.2.pdf
+      \endverb
+      \verb{url}
+      \verb http://omdoc.org/pubs/omdoc1.2.pdf
+      \endverb
+    \endentry
+    \entry{Kohlhase:OMDoc1.3}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=2e832785205772b3f6e09c93b51d6e74}{%
+           family={Kohlhase},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{fullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{bibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorbibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authornamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorfullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \field{extraname}{2}
+      \field{labelalpha}{Koh10}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Draft Specification}
+      \field{title}{An Open Markup Format for Mathematical Documents {\omdoc} [Version 1.3]}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb https://svn.omdoc.org/repos/omdoc/branches/omdoc-1.3/doc/spec/main.pdf
+      \endverb
+      \verb{url}
+      \verb https://svn.omdoc.org/repos/omdoc/branches/omdoc-1.3/doc/spec/main.pdf
+      \endverb
+    \endentry
+    \entry{Kohlhase:metakeys:ctan}{report}{}
+      \name{author}{1}{}{%
+        {{hash=2e832785205772b3f6e09c93b51d6e74}{%
+           family={Kohlhase},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Comprehensive {\TeX} Archive Network (CTAN)}%
+      }
+      \strng{namehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{fullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{bibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorbibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authornamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorfullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \field{extraname}{3}
+      \field{labelalpha}{Koh16}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \strng{crossref}{Kohlhase:metakeys:base}
+      \field{title}{\texttt{metakeys.sty}: A generic framework for extensible Metadata in {\LaTeX}}
+      \field{type}{techreport}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb http://mirror.ctan.org/macros/latex/contrib/stex/sty/metakeys/metakeys.pdf
+      \endverb
+      \verb{url}
+      \verb http://mirror.ctan.org/macros/latex/contrib/stex/sty/metakeys/metakeys.pdf
+      \endverb
+    \endentry
+    \entry{Kohlhase:metakeys:svn}{report}{}
+      \name{author}{1}{}{%
+        {{hash=2e832785205772b3f6e09c93b51d6e74}{%
+           family={Kohlhase},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{fullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{bibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorbibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authornamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorfullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \field{extraname}{4}
+      \field{labelalpha}{Koh16}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \strng{crossref}{Kohlhase:metakeys:base}
+      \field{title}{\texttt{metakeys.sty}: A generic framework for extensible Metadata in {\LaTeX}}
+      \field{type}{techreport}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://github.com/KWARC/sTeX/raw/master/sty/metakeys/metakeys.pdf
+      \endverb
+      \verb{url}
+      \verb https://github.com/KWARC/sTeX/raw/master/sty/metakeys/metakeys.pdf
+      \endverb
+    \endentry
+    \entry{Kohlhase:metakeys:base}{report}{}
+      \name{author}{1}{}{%
+        {{hash=2e832785205772b3f6e09c93b51d6e74}{%
+           family={Kohlhase},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{fullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{bibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorbibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authornamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorfullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \field{extraname}{5}
+      \field{labelalpha}{Koh16}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extraalpha}{3}
+      \true{crossrefsource}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\texttt{metakeys.sty}: A generic framework for extensible Metadata in {\LaTeX}}
+      \field{type}{Self-documenting {\LaTeX} package}
+      \field{year}{2016}
+    \endentry
+    \entry{Kohlhase:smmtf:ctan}{report}{}
+      \name{author}{1}{}{%
+        {{hash=2e832785205772b3f6e09c93b51d6e74}{%
+           family={Kohlhase},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Comprehensive {\TeX} Archive Network (CTAN)}%
+      }
+      \strng{namehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{fullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{bibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorbibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authornamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorfullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \field{extraname}{6}
+      \field{labelalpha}{Koh16}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extraalpha}{4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\texttt{omtext}: Semantic Markup for Mathematical Text Fragments in {\LaTeX}}
+      \field{type}{techreport}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb http://mirror.ctan.org/macros/latex/contrib/stex/sty/omtext/omtext.pdf
+      \endverb
+      \verb{url}
+      \verb http://mirror.ctan.org/macros/latex/contrib/stex/sty/omtext/omtext.pdf
+      \endverb
+    \endentry
+    \entry{Kohlhase:sref*}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2e832785205772b3f6e09c93b51d6e74}{%
+           family={Kohlhase},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{fullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{bibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorbibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authornamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorfullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \field{extraname}{7}
+      \field{labelalpha}{Koh16}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extraalpha}{5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \strng{crossref}{Kohlhase:sref:base}
+      \field{title}{\texttt{sref.sty}: Semantic Crossreferencing in {\LaTeX}}
+      \field{type}{Self-documenting {\LaTeX} package}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://github.com/KWARC/sTeX/raw/master/sty/sref/sref.pdf
+      \endverb
+      \verb{url}
+      \verb https://github.com/KWARC/sTeX/raw/master/sty/sref/sref.pdf
+      \endverb
+    \endentry
+    \entry{Kohlhase:sref:ctan}{report}{}
+      \name{author}{1}{}{%
+        {{hash=2e832785205772b3f6e09c93b51d6e74}{%
+           family={Kohlhase},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Comprehensive {\TeX} Archive Network (CTAN)}%
+      }
+      \strng{namehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{fullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{bibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorbibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authornamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorfullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \field{extraname}{8}
+      \field{labelalpha}{Koh16}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extraalpha}{6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \strng{crossref}{Kohlhase:sref:base}
+      \field{title}{\texttt{sref.sty}: Semantic Crossreferencing in {\LaTeX}}
+      \field{type}{techreport}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb http://mirror.ctan.org/macros/latex/contrib/stex/sty/sref/sref.pdf
+      \endverb
+      \verb{url}
+      \verb http://mirror.ctan.org/macros/latex/contrib/stex/sty/sref/sref.pdf
+      \endverb
+    \endentry
+    \entry{Kohlhase:sref:base}{report}{}
+      \name{author}{1}{}{%
+        {{hash=2e832785205772b3f6e09c93b51d6e74}{%
+           family={Kohlhase},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{fullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{bibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorbibnamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authornamehash}{2e832785205772b3f6e09c93b51d6e74}
+      \strng{authorfullhash}{2e832785205772b3f6e09c93b51d6e74}
+      \field{extraname}{9}
+      \field{labelalpha}{Koh16}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extraalpha}{7}
+      \true{crossrefsource}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\texttt{sref.sty}: Semantic Crossreferencing in {\LaTeX}}
+      \field{type}{Self-documenting {\LaTeX} package}
+      \field{year}{2016}
+    \endentry
+    \entry{LK:MathOntoAuthDoc09}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=e68beeb96b34fa2bf948d704fcb7a3fb}{%
+           family={Lange},
+           familyi={L\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2e832785205772b3f6e09c93b51d6e74}{%
+           family={Kohlhase},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=90e0ce01e5f496d374a631f92177ea75}{%
+           family={Carette},
+           familyi={C\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod}}}%
+        {{hash=400f81b5135432340b45d9d15d3ad16d}{%
+           family={Dixon},
+           familyi={D\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod}}}%
+        {{hash=877978902c853eff726379e630474953}{%
+           family={Sacerdoti\bibnamedelima Coen},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod}}}%
+        {{hash=498b6561c76808041dafc0e908dde98a}{%
+           family={Watt},
+           familyi={W\bibinitperiod},
+           given={Stephen\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Verlag}%
+      }
+      \strng{namehash}{79ff4bc749343c3a2913eea039189796}
+      \strng{fullhash}{79ff4bc749343c3a2913eea039189796}
+      \strng{bibnamehash}{79ff4bc749343c3a2913eea039189796}
+      \strng{authorbibnamehash}{79ff4bc749343c3a2913eea039189796}
+      \strng{authornamehash}{79ff4bc749343c3a2913eea039189796}
+      \strng{authorfullhash}{79ff4bc749343c3a2913eea039189796}
+      \strng{editorbibnamehash}{248087930d2d7b1f56346b34365215aa}
+      \strng{editornamehash}{248087930d2d7b1f56346b34365215aa}
+      \strng{editorfullhash}{397979aea2aa3128b93cccdece0a500c}
+      \field{labelalpha}{LK09}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{MKM/{\-}Cal{\-}cu{\-}le{\-}mus} Proceedings}
+      \field{isbn}{978-3-642-02613-3}
+      \field{month}{7}
+      \field{number}{5625}
+      \field{series}{LNAI}
+      \field{title}{A Mathematical Approach to Ontology Authoring and Documentation}
+      \field{year}{2009}
+      \field{pages}{389\bibrangedash 404}
+      \range{pages}{16}
+      \verb{urlraw}
+      \verb http://kwarc.info/kohlhase/papers/mkm09-omdoc4onto.pdf
+      \endverb
+      \verb{url}
+      \verb http://kwarc.info/kohlhase/papers/mkm09-omdoc4onto.pdf
+      \endverb
+      \keyw{conference,clange-phd}
+    \endentry
+    \entry{sTeX:github:on}{online}{}
+      \field{labelalpha}{sTeX}
+      \field{sortinit}{s}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labeltitlesource}{title}
+      \field{label}{sTeX}
+      \field{title}{{KWARC/sTeX}}
+      \field{urlday}{15}
+      \field{urlmonth}{5}
+      \field{urlyear}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/KWARC/sTeX
+      \endverb
+      \verb{url}
+      \verb https://github.com/KWARC/sTeX
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

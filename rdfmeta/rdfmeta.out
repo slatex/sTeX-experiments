@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{User Interface}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Package Options}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Extending Macros and Environments by Metadata Keys}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Redefinitions of Common LaTeX Macros and Environments}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Extending Packages with rdfmeta}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Limitations}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{The Implementation}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{Package Options}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.2}{Key Definitions}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.3}{RDFa upgrade Facilities}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.4}{Redefinitions}{section.3}% 12
